@@ -6,7 +6,7 @@
 I'm passionate about crafting user-friendly and innovative web applications. As a Full Stack Developer and UI/UX Designer, I bring creativity and technical expertise to every project I work on. 
 
 ### About Me
-- 👀 I'm interested in Web Development and UI/UX Designing.
+- 👀 I'm interested in Web application Development and UI/UX Designing.
 - 🌱 Currently, I'm honing my skills as a Full Stack Developer.
 - 🌟 I'm keen to collaborate on open-source projects within my domain and eager to explore new technologies!
 
