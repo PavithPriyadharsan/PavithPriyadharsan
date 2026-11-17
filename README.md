@@ -1,7 +1,6 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Pavith%20Priyadharsan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20.NET%20Developer%20%7C%20Cloud%20%26%20AI%20Integrations&descAlignY=58&descSize=18" width="100%" />
-</div>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Pavith Priyadharsan</h1>
+<h3 align="center">Full-Stack .NET Developer | AI & Cloud Integrations</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -73,11 +72,10 @@ I'm a **Software Development Engineer** with **2.5+ years of enterprise experien
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithpriyadharsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithpriyadharsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PavithPriyadharsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PavithPriyadharsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </p>
 
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PavithPriyadharsan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
